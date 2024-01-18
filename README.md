@@ -1,8 +1,3 @@
-# Apify Test Actors
+# DEPRECATED: Apify Test Actors
 
-Collection of Actors that test various features of the platform.
-
-## When adding new Actors, keep in mind
-
- - descriptive names
- - fast builds
+Turns out there aready is https://github.com/apify/komparz, which is much cooler name.
